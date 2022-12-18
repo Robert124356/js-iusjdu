@@ -1,0 +1,20 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+#wynikP {
+  display: none;
+}
+
+#wynikNie {
+  display: none;
+}
+
+#wynikOdP {
+  display: none;
+}
+
+#wynikOdNie {
+  display: none;
+}
